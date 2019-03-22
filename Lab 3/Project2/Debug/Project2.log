@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\tyler\source\repos\project2\project2\source.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\tyler\source\repos\Project2\Debug\Lab 3.exe
